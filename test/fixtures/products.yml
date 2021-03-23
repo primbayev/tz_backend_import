@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price_list: MyString
+  bDDrand: MyString
+  code: MyString
+  stock: 1
+  cost: 9.99
+  name: MyString
+
+two:
+  price_list: MyString
+  bDDrand: MyString
+  code: MyString
+  stock: 1
+  cost: 9.99
+  name: MyString
